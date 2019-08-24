@@ -18,3 +18,8 @@ file                  | full path         | origin
 ----------------------|-------------------|-----------------
 `.bash_profile`       |`~/.bash_profile`  |
 `.bashrc`             |`~/.bashrc`        |
+
+## vim files
+
+file                  | full path         | origin
+----------------------|-------------------|-----------------
